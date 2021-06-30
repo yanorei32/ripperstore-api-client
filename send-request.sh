@@ -4,7 +4,7 @@
 RS_APIKEY='<YOUR API KEY>'
 
 # ref: https://github.com/CodeAngel3/RipperStoreCredits/blob/main/Main.cs
-RS_VERSION='3'
+RS_VERSION='5'
 
 NAME='KaniPoke'
 DESCRIPTION='Kani Poke'
